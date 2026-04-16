@@ -1,7 +1,7 @@
 # Active Directory Home Lab
 
 ## Overview
-I built a hands-on Active Directory lab to simulate a real-world enterprise environment and develop foundational skills in identity and access management, user administration, and security monitoring relevant to a SOC Analyst role.
+I built a hands-on Active Directory lab to simulate a real-world enterprise environment and develop foundational skills in identity and access management, user administration, and security monitoring.
 
 
 ## Objective

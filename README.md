@@ -5,7 +5,7 @@ I built a hands-on Active Directory lab to simulate a real-world enterprise envi
 
 
 ## Objective
-To understand how user accounts, permissions, and authentication work in a domain environment, and how these activities generate logs that can be monitored for security events.
+To understand how user accounts, permissions, and authentication work in a domain environment.
 
 
 ## Lab Environment

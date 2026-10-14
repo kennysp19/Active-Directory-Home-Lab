@@ -22,7 +22,7 @@ To understand how user accounts, permissions, and authentication work in a domai
 Network Diagram: <br/>
 <img src="https://i.imgur.com/UkW3bQq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-**Steps Performed
+Steps Performed
 
 <p align="center">
 Installed Active Directory Domain Services <br/>

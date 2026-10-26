@@ -1,5 +1,7 @@
 # Active Directory Home Lab
 
+**Lab series:** This repo covers the infrastructure (domain controller, DHCP, NAT, domain join). Role-based access control, permission testing, and security logging (audit policy, failed logons, account lockouts, and group change events) are in [Lab 2: AD IAM Lab](https://github.com/kennysp19/ad-iam-lab).
+
 ## Overview
 I built a hands-on Active Directory lab to simulate a real-world enterprise environment and develop foundational skills in identity and access management, user administration, and security monitoring.
 

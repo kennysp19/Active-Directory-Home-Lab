@@ -60,3 +60,6 @@ Joining client machine (Windows 10) to domain controller and making sure there i
 <img src="https://i.imgur.com/kyQIwO7.jpeg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/yM2xikd.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/sptD0hG.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+
+## Next
+Continued in [ad-iam-lab](https://github.com/kennysp19/ad-iam-lab): role/access group design, NTFS permissions, and audit logging.
